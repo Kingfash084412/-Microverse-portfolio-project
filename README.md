@@ -48,7 +48,7 @@ and using Layouts like Grid and Flexbox for position the elements and Turning fi
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](/)
+- [Live Demo](/https://enchanting-toffee-25d5fe.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
